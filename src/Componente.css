@@ -1,0 +1,35 @@
+.Componente {
+  text-align: left;
+  float: left;
+}
+
+.Componente-logo {
+  /*animation: Componente-logo-spin infinite 20s linear;*/
+  height: 40px;
+  width: 40px;
+}
+
+.Componente-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.Componente-title {
+  font-size: 1.5em;
+}
+
+.Componente-intro {
+  font-size: large;
+}
+
+.Foto-perfil{
+  height: 40px;
+  width: 40px;
+}
+
+@keyframes Componente-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

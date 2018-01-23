@@ -1,0 +1,29 @@
+.Componente2 {
+  position: relative; 
+}
+
+.Componente2-logo {
+  height: 80px;
+}
+
+.Componente2-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Componente2-title {
+  font-size: 1.5em;
+}
+
+.Componente2-intro {
+  font-size: large;
+}
+
+@keyframes Componente2-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
